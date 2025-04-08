@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.content {
+  max-width: 600px;
+  padding: 20px;
+  color: #fff;
+  transition: color 0.5s ease;
+}
+
+.app.white .content {
+  color: #000; /* Text color for white background */
+}
+
+
