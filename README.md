@@ -3,10 +3,14 @@
 Smooth section transitions while scrolling — built using **React.js**.  
 This project demonstrates scroll-triggered UI effects for a seamless UX.
 
-![Preview](public/preview.png)
- <!-- Replace with your actual screenshot path -->
+# SCROLLING_TRANSITION
 
-[🔗 Live Demo](https://your-live-demo-link.com) <!-- Replace with your deployed URL -->
+🚀 **Live Demo:** [https://scrolling-transition.vercel.app](https://scrolling-transition.vercel.app)
+
+![Preview](public/preview.png)
+
+A smooth scrolling animation React.js project showcasing transitions as you scroll through different sections of a page.
+
 
 ---
 
