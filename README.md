@@ -3,7 +3,8 @@
 Smooth section transitions while scrolling — built using **React.js**.  
 This project demonstrates scroll-triggered UI effects for a seamless UX.
 
-![screenshot](./preview.png) <!-- Replace with your actual screenshot path -->
+![Preview](public/preview.png)
+ <!-- Replace with your actual screenshot path -->
 
 [🔗 Live Demo](https://your-live-demo-link.com) <!-- Replace with your deployed URL -->
 
